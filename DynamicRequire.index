@@ -1,0 +1,5 @@
+!pack FRAX
+NAME:STRING frax
+VERSION:VERSION 1.0.0
+DESCRIPTION:STRING Dynamic Roblox server communication system for sending objects across servers using MessageService
+LICENSE:STRING MIT
